@@ -1,0 +1,5 @@
+[submodule "wknd"]
+	path = wknd
+	url = git@github.com:ynakagawa/wknd.git
+	branch = main
+	shallow = true
