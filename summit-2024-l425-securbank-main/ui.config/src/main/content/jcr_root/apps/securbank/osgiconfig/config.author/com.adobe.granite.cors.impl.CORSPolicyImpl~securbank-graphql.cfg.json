@@ -1,6 +1,6 @@
 {
   "alloworigin": [""],
-  "alloworiginregexp": ["https?://localhost.*", "https?://astounding-marshmallow-bea0f7.netlify.app"],
+  "alloworiginregexp": ["https?://localhost.*", "https?://astounding-marshmallow-bea0f7.netlify.*"],
   "allowedpaths": [
     "/graphql/execute.json.*",
     "/content/_cq_graphql/securbank/endpoint.json",
